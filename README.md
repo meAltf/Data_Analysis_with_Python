@@ -1,6 +1,7 @@
 # Data Analysis with Python
 
-This repository contains the code and data for a project on data wrangling with Python. The project was created as part of a workshop on data analysis with Python.
+- This repository contains the code and data for a project on data wrangling with Python.
+- The project was created as part of a workshop on data analysis with Python.
 
 ## Learning Outcomes
 
@@ -20,12 +21,13 @@ Through this project, I learned the following:
 
 The project is organized into the following files:
 
-- `data.csv`: The movie ratings dataset
+- `data.csv`: The food dataset
 - `data_wrangling.ipynb`: The Jupyter notebook containing the data wrangling code
 
 ## Instructions
 
-To run the data wrangling code, you will need to have Python and the Pandas and Matplotlib libraries installed. Once you have the necessary dependencies, you can open the `data_wrangling.ipynb` notebook in a Jupyter Notebook environment and run the cells to execute the code.
+- To run the data wrangling code, you will need to have Python and the Pandas and Matplotlib libraries installed.
+- Once you have the necessary dependencies, you can open the notebook in a Jupyter Notebook environment and run the cells to execute the code.
 
 ## Contributions
 
